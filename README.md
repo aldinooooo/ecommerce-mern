@@ -1,4 +1,4 @@
-# Features
+# **Features**
 
 -User registration and login
 -Product management (add, edit, delete)
