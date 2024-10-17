@@ -1,10 +1,14 @@
 # **Features**
 
--User registration and login
--Product management (add, edit, delete)
--Shopping cart functionality (add, remove, update quantity)
--Payment processing using Stripe
--Order management (view, cancel, fulfill)
+-User registration and login.
+
+-Product management (add, edit, delete).
+
+-Shopping cart functionality (add, remove, update quantity).
+
+-Payment processing using Stripe.
+
+-Order management (view, cancel, fulfill).
 
 # Technologies Used
 
