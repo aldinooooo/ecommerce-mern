@@ -93,7 +93,7 @@ First, create the environment variables file `.env` in the server folder. The `.
 1. Open the project in any editor of choice.
 2. Navigate into the server directory `cd server`.
 3. Run `npm i` or `npm install` to install the packages.
-4. Run `nodemon start` to start the server.
+4. Run `npm run dev` to start the server.
 
 If configured correctly, you should see a message indicating that the server is running successfully and `MongoDB connected:`.
 
